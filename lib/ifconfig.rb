@@ -7,6 +7,3 @@ class IFConfig
     return output["ip"]
   end
 end
-
-
-puts IFConfig.myip
